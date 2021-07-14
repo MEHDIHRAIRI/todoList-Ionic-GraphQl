@@ -1,0 +1,8 @@
+{
+  "name": "TodoList",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "55294dc5"
+}
